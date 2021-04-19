@@ -1,0 +1,26 @@
+2021-04-19 19:14:14 INFO  CommonActions:37 - Loading the log4j properties file
+2021-04-19 19:14:14 INFO  CommonActions:58 - Loading the Config property file
+2021-04-19 19:14:14 INFO  CommonActions:41 - Launching the browser
+2021-04-19 19:14:16 INFO  CommonActions:43 - Hitting the given URL
+2021-04-19 19:14:19 INFO  CommonActions:47 - Initializing the Page Objects
+2021-04-19 19:14:19 INFO  CommonActions:52 -  Page Objects Initialized
+2021-04-19 19:14:19 INFO  Test_Fetch_Account_assistants:38 - Executing the Fetch Account Assistants test case
+2021-04-19 19:14:19 INFO  CommonActions:69 - Logging in to the Application
+2021-04-19 19:14:19 INFO  Test_Fetch_Account_assistants:18 - Go to Directory Menu
+2021-04-19 19:24:19 INFO  CommonActions:37 - Loading the log4j properties file
+2021-04-19 19:24:19 INFO  CommonActions:58 - Loading the Config property file
+2021-04-19 19:24:19 INFO  CommonActions:41 - Launching the browser
+2021-04-19 19:24:22 INFO  CommonActions:43 - Hitting the given URL
+2021-04-19 19:24:24 INFO  CommonActions:47 - Initializing the Page Objects
+2021-04-19 19:24:24 INFO  CommonActions:52 -  Page Objects Initialized
+2021-04-19 19:24:24 INFO  Test_Fetch_Account_assistants:38 - Executing the Fetch Account Assistants test case
+2021-04-19 19:24:24 INFO  CommonActions:69 - Logging in to the Application
+2021-04-19 19:24:29 ERROR CommonActions:88 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"partial link text","selector":"Welcome"}
+  (Session info: chrome=89.0.4389.128)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PRABHADELL', ip: '10.0.0.97', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.128, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\bindu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fe5115d49637f89f969c2cbe9f0e6f0
+*** Element info: {Using=partial link text, value=Welcome}

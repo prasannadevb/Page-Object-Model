@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Websites Testing]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="Test_Manage_Reviews_for_Employee(failed)" verbose="2">
+    <classes>
+      <class name="com.orangehrm.test_cases.Test_Manage_Reviews_for_Employee">
+        <methods>
+          <include name="test_Manage_Reviews_for_Employee"/>
+          <include name="gotoApplication"/>
+        </methods>
+      </class> <!-- com.orangehrm.test_cases.Test_Manage_Reviews_for_Employee -->
+    </classes>
+  </test> <!-- Test_Manage_Reviews_for_Employee(failed) -->
+</suite> <!-- Failed suite [Websites Testing] -->

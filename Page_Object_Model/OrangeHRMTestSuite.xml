@@ -1,0 +1,15 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Websites Testing" verbose="2" >
+	<test name="Fetch Account Assistants">
+		<classes>
+			<class name="com.orangehrm.test_cases.Test_Fetch_Account_assistants" />
+		</classes>
+	</test>
+	
+	<test name="Test_Manage_Reviews_for_Employee">
+		<classes>
+			<class name="com.orangehrm.test_cases.Test_Manage_Reviews_for_Employee" />
+		</classes>
+	</test>
+	</suite>
